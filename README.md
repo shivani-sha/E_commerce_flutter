@@ -64,7 +64,7 @@ Includes a README file with comprehensive setup and run instructions.
 
 Clone the Repository:
 <br/>
-git clone https://github.com/kaverimeka/ecommerce-flutter-app.git
+git clone https://github.com/shivani-sha/E_commerce_flutter
 <br/>
 cd ecommerce-flutter-app
 
