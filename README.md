@@ -127,4 +127,4 @@ flutter test
 
 ---
 
-Feel free to explore, use, or adapt this project for learning or production purposes. If you have any suggestions or feedback, let’s collaborate to make it even better! 😊
+ 
